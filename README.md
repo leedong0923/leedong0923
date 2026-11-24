@@ -25,6 +25,7 @@
 ## 🍀 Projects
 - **2026.09 ~ 2026.12** | [LOCAL (오디세이)](https://github.com/SW-odyssey/BE) - 외국인 여행자를 위한 종로 로컬 카페·음식점 추천 서비스 (백엔드·API)
 - **2026.09 ~ 2026.12** | [PetRoad](https://github.com/PetRoad/BackEnd) - 반려견 산책 경로 기록·공유 서비스 (로그인·JWT, 이미지 업로드, 회원 탈퇴)
+- **2026.01 ~ 2026.02** | OP.GG 클론 - 리그 오브 레전드 전적 검색 서비스 (개인 프로젝트, Spring Boot + Riot API)
 
 ## 📚 Study Together
 - [토비의 스프링 3.1](https://github.com/dongne-up/Toby-Spring-3.1)
